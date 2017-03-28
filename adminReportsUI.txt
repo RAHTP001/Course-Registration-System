@@ -1,0 +1,8 @@
+Reports
+1.View all courses
+2.View full courses
+3.Create file with list of full courses
+4.View a course's student list
+5.View a student's courses
+6.Sort courses by students
+7.Exit

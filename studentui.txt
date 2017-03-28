@@ -1,0 +1,7 @@
+Course Management
+1.View all courses
+2.View non-full courses
+3.Register a course
+4.Withdraw from a course
+5.View your courses
+6.Exit

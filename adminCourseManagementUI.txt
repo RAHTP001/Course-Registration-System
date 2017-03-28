@@ -1,0 +1,7 @@
+Courses Management
+1.Create a New Course
+2.Delete a course
+3.Edit a course
+4.Display information for a given course
+5.Register a student
+6.Exit

@@ -1,0 +1,9 @@
+Edit the course info:
+1.Course Name
+2.Course ID
+3.Max Students
+4.Current Students
+5.Intructor
+6.Section Number
+7.Location
+8.Exit
